@@ -8,5 +8,14 @@
 	<string>Russian-PC-no_flag</string>
 	<key>CFBundleVersion</key>
 	<string>0.1</string>
+	<key>KLInfo_Russian - PC</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.russian-pc#2.russian-pc</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
 </dict>
 </plist>

@@ -2,7 +2,7 @@
 
 ## How to install
 
-1. Download file "Russian-PC-no_flag.bundle"
+1. Download file ["Russian-PC-no_flag.bundle"](./Russian-PC-no_flag.zip)
 2. Double-click on file to install
 3. Open **System Preferences -> Keyboard -> "+" -> Other -> Russian - PC** (without the flag)
 4. Press "Add"
@@ -13,7 +13,7 @@
 
 ## Как установить
 
-1. Скачайте файл "Russian-PC-no_flag.bundle"
+1. Скачайте файл ["Russian-PC-no_flag.bundle"](./Russian-PC-no_flag.zip)
 2. Запустите его
 3. Откройте **System Preferences -> Keyboard -> "+" -> Other -> Russian - PC** (без флага)
 4. Нажмите Add
