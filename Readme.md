@@ -13,7 +13,7 @@
 cp -r ./Russian-PC-without-flag.bundle ~/Library/Keyboard\ Layouts
 
 # all users
-cp -r ./Russian-PC-without-flag.bundle ~/Library/Keyboard\ Layouts
+cp -r ./Russian-PC-without-flag.bundle /Library/Keyboard\ Layouts
 ```
 
 4. (Optional) Restart or re-login
@@ -35,7 +35,7 @@ cp -r ./Russian-PC-without-flag.bundle ~/Library/Keyboard\ Layouts
 cp -r ./Russian-PC-without-flag.bundle ~/Library/Keyboard\ Layouts
 
 # all users
-cp -r ./Russian-PC-without-flag.bundle ~/Library/Keyboard\ Layouts
+cp -r ./Russian-PC-without-flag.bundle /Library/Keyboard\ Layouts
 ```
 4. Откройте **System Preferences -> Keyboard -> "+" -> Other -> Russian - PC 2.0** (без флага)
 5. Нажмите Add
